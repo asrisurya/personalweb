@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584770486076.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "329102503",
+    "id" : "5AAA2D39",
+    "lastKnownWriteTime" : 1584770480,
+    "last_content_update" : 1584770480,
+    "path" : "~/GitHub/personalweb/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
