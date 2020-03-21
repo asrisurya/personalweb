@@ -1,5 +1,0 @@
-git clone https://github.com/asrisurya/personalweb.git My_Website
-cd My_Website
-git submodule update --init --recursive
-
-git submodule add -f -b master https://github.com/asrisurya/asrisurya.github.io.git public

@@ -12,7 +12,7 @@ education:
     year: 2011-2015
 email: ""
 interests:
-- Financial econometerics
+- Financial econometrics
 - Computational finance
 - Machine learning
 - International financial market
@@ -41,7 +41,7 @@ user_groups:
 - Visitors
 ---
 
-Asri Surya is a finance graduate from Warwick Business School, England. He is a research assistant in Universitas Gadjah Mada, Indonesia since 2014 when he was still in undergraduate studies. His research interest span bayesian method, international financial market, financial economterics, and machine learning
+Asri Surya is a finance graduate from Warwick Business School, England. He is a research assistant in Universitas Gadjah Mada, Indonesia since 2014 when he was still in undergraduate studies. His research interest span bayesian method, international financial market, financial econometrics, and machine learning
 
 His research has been presented at conferences organized by the Indonesia Finance Association (IFA) in 2016 and The Faculty of Economics and Business, President University in 2015.
 
