@@ -1,19 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1584770486076.000,
+    "created" : 1584776139578.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "329102503",
-    "id" : "5AAA2D39",
-    "lastKnownWriteTime" : 1584770480,
-    "last_content_update" : 1584770480,
+    "hash" : "0",
+    "id" : "51072C0F",
+    "lastKnownWriteTime" : 1584776050,
+    "last_content_update" : 1584776050,
     "path" : "~/GitHub/personalweb/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "18,28",
+        "scrollLine" : "0"
     },
-    "relative_order" : 1,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "toml"
